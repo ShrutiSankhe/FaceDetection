@@ -10,7 +10,7 @@ Libraries Used
 •	mysql.connector for accessing the database
 •	tkinter as the GUI package 
 
-The project of Face Recognition has following stages:
+Face Recognition has following stages:
 1)	Generating the dataset
 2)	Training the classifier
 3)	Face detection and identification
